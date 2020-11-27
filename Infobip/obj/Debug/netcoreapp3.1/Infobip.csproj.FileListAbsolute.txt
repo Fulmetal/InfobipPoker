@@ -1,0 +1,13 @@
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.exe
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.deps.json
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.runtimeconfig.json
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.runtimeconfig.dev.json
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.dll
+C:\Users\itesanovic\source\repos\Infobip\Infobip\bin\Debug\netcoreapp3.1\Infobip.pdb
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.csprojAssemblyReference.cache
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.AssemblyInfoInputs.cache
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.AssemblyInfo.cs
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.csproj.CoreCompileInputs.cache
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.dll
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.pdb
+C:\Users\itesanovic\source\repos\Infobip\Infobip\obj\Debug\netcoreapp3.1\Infobip.genruntimeconfig.cache
